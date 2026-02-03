@@ -1,0 +1,23 @@
+/* 
+  System.strings
+  ComplexSkeleton
+
+  Created by Andras Olah on 2026. 02. 03..
+  
+*/
+
+"dashboard_title_key" = "Szia UIKit!";
+"dashboard_subtitle_key" = "A többi hamarosan!";
+"componentkit_title_key" = "ComponentKit";
+"componentkit_buttons_title_key" = "Gombok";
+"settings_screen_title_key" = "Beállítások";
+"settings_screen_subtitle_key" = "Beállítani...";
+"settings_screen_language_row_key" = "Nyelv";
+"settings_screen_dark_mode_row_key" = "Sötét mód";
+
+"language_code_en" = "Angol";
+"language_code_hu" = "Magyar";
+
+"dark_mode_on" = "Sötét";
+"dark_mode_off" = "Világos";
+"dark_mode_automatic" = "Auto";
